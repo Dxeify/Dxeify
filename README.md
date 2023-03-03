@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My own game website](Websites)
 
-- 🌱 I’m currently learning **JacaScript,CSS**
+- 🌱 I’m currently learning **JavaScript,CSS**
 
 - 📫 How to reach me **zecent#9112**
 
